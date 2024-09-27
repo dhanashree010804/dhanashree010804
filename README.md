@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanashree010804" alt="dhanashree010804" /></a> </p>
 
+- 🔭 I’m currently studying at **Symbiosis Institute of Technology, Nagpur.**
+
+- 🌱 I’m currently learning **advanced concepts in Python, Machine Learning algorithms, and Web Development technologies.**
+
+- 👯 I’m looking to collaborate on **Machine Learning projects, Web Development, and innovative solutions in computer vision.**
+
+- 🤝 I’m looking for help with **Advanced Python techniques, Machine Learning model optimization, and Best practices for software development.**
+
+- 💬 Ask me about **Machine Learning, Web Development, and Image Processing techniques.**
+
+- 📫 How to reach me: **dhanashreegiriya2013@gmail.com**
+
 - ⚡ Fun fact **I love organizing events and have a strong passion for leadership, always striving to bring teams together to achieve shared goals.**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,8 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanashree010804&show_icons=true&locale=en" alt="dhanashree010804" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashree010804&" alt="dhanashree010804" /></p>
-
-<!---
-dhanashree010804/dhanashree010804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
