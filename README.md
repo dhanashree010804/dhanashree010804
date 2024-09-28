@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashree010804&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashree010804" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanashree010804" alt="dhanashree010804" /></a> </p>
-
 - 🔭 I’m currently studying at **Symbiosis Institute of Technology, Nagpur.**
 
 - 🌱 I’m currently learning **advanced concepts in Python, Machine Learning algorithms, and Web Development technologies.**
