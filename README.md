@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Advanced Python techniques, Machine Learning model optimization, and Best practices for software development.**
 
-- 💬 Ask me about **Machine Learning, Web Development, and Image Processing techniques.**
+- 💬 Ask me about **Machine Learning, Web Development, and Web Development technologies.**
 
 - 📫 How to reach me: **dhanashreegiriya2013@gmail.com**
 
